@@ -104,7 +104,7 @@ namespace LearningSpecflowWithSelenium.Features
   testRunner.Given("As a writer", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line hidden
 #line 5
-  testRunner.When("I post an article", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+  testRunner.When("I post an article with title as Learning Specflow", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line hidden
 #line 6
   testRunner.Then("posted article should be visible for my learners", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
